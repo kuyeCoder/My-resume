@@ -38,6 +38,11 @@ color: #787575;
 }
 .download-btn:hover{
     background: #666;
+    color: black;
+}
+
+.download-btn a:hover {
+    color: black;
 }
 section{
     margin-bottom: 30px;
